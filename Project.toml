@@ -15,7 +15,7 @@ YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
 DocStringExtensions = "0.9"
-InlineStrings = "1"
+InlineStrings = "1, 2"
 Parsers = "2"
 PrecompileTools = "1"
 StructArrays = "0.6, 0.7"
